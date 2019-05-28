@@ -1,0 +1,119 @@
+body {
+       padding-top: 3rem;
+       height: 100%;
+      }
+  
+   .st {
+       text-align: center;
+   }
+  td {
+      padding-top:2px;
+      padding-left:3px;
+      padding-right:3px;
+      padding-bottom: 2px;
+      width: 100px;
+  }
+ 
+  .center p {
+      line-height: 1.5;
+      display: inline;
+      vertical-align: middle;
+  }
+ 
+  .nowrap {
+      white-space: nowrap;
+  }
+ 
+  .editbox {
+      display:none;
+      text-align: left;
+      width: 95%;
+      background-color:#ffffcc;
+      border:solid 1px #000;
+  }
+  
+   .main-container {
+      background: #808B96;
+      width: 100%;
+      min-height: 700px;
+   }
+ 
+  #acc {
+      background: #808B96;
+      width: 100%;
+      min-height: 700px;
+      background-image: url("Internet-Technician6.jpg"); 
+  }
+  
+  .container-cs {
+      width: 50%;
+  }
+ 
+  .container {
+      background: #F2F3F4;
+      padding-top: 1rem;
+      padding-bottom: 2rem;
+      min-width: 45%;
+}                   
+  
+  #c1,#c2,#c3,#c5 {
+      background: #F2F3F4;
+      padding-top: 1rem;
+      padding-bottom: 2rem;
+      min-width: 100%;
+}                   
+  
+  #c4 {
+      background: #F2F3F4;
+      padding-top: 1rem;
+      padding-bottom: 2rem;
+      min-width: 100%;  
+    }                   
+  
+  #c4 th {
+      height: 5px;  
+      width: 2px;
+      text-align: left;
+    }                   
+
+
+ .jumbotron {
+      padding: 3px;
+  }
+ 
+  .infobox {
+      max-width: 65%;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      min-height: 550px;
+      height: 100%;
+      border: 3px solid #a5a5a5;
+  }
+ 
+  .addbox {
+      max-width: 65%;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      min-height: 550px;
+      height: 100%;
+      border: 3px solid #a5a5a5;
+  }
+ 
+  .inftbl {
+      font-size: 13px;
+      text-align: center;
+  }
+ 
+  .reportbtn {
+      position: relative;
+      display: inline;
+      left: 60rem;
+      margin-bottom: 10px;
+  }
+ 
+  @media (max-width: 1200px) {
+     .container {
+         width: 80%;
+     }
+ }
+               
